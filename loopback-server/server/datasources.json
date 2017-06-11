@@ -6,7 +6,7 @@
   "MongoDB": {
     "host": "localhost",
     "port": 27017,
-    "url": "host: localhost",
+    "url": "",
     "database": "conFusion",
     "password": "",
     "name": "MongoDB",
